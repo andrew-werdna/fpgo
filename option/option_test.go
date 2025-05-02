@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/andrew-werna/fpgo/option"
+	"github.com/andrew-werdna/fpgo/option"
 	"github.com/stretchr/testify/assert"
 )
 
